@@ -39,4 +39,11 @@ Input Form: <br/>
 <br />
 <br />
 
+<p align="center">
+Input Form: <br/>
+<img src="https://github.com/SaliKangwa/Innacuracy-Report/blob/main/ir%20form%203.png" height="80%" width="80%" alt="Input Form"/>
+<br />
+<br />
+
+
 
