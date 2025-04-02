@@ -31,5 +31,12 @@ This project involves developing an automated tracking system to identify and ma
 - <b>IIS (Deployment)</b>
 <br />
 
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Input Form: <br/>
+<img src="https://github.com/SaliKangwa/Innacuracy-Report/blob/main/ir%20form.png" height="80%" width="80%" alt="Input Form"/>
+<br />
+<br />
 
 
